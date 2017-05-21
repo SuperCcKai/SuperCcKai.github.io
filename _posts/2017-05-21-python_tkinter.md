@@ -1,6 +1,6 @@
 ---
 layout: post
-title: python֮之tkinter实例化学习
+title: python之tkinter实例化学习
 date: 2017-05-21
 tags: python
 ---
@@ -22,7 +22,7 @@ tags: python
 
 作为实践，用tkinter做了个**ascii码转化查询表**
 
-<h2 id="1">1. 语法示例</h2>
+<h3 id="1">1. 语法示例</h3>
 
 **界面**
 
@@ -40,7 +40,7 @@ tags: python
 </ul>
 
 
-<h2 id="2">2. 设计规划<h3>
+<h3 id="2">2. 设计规划<h3>
 
 **规划图**
 
@@ -50,7 +50,7 @@ tags: python
 
 <br/>
 
-<h2 id="3">3. 相关知识<h2>
+<h3 id="3">3. 相关知识<h3>
 
 首先看怎么产生第一个窗口
 
